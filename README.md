@@ -1,0 +1,1 @@
+The goal of this project was to design a retro-style mobile phone from scratch, emphasizing precise geometric constraints and ergonomic button layout. It includes a complete technical documentation package from initial sketches to the final 3D model.
